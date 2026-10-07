@@ -1,3 +1,13 @@
+# lerobot
+
+机械臂训推项目：基于 Hugging Face LeRobot 的 SO-101 实践与实验。
+
+- [SO-101 中文实操 Wiki](docs/so101_setup_wiki_zh.md)
+- [手动夹爪测试脚本](tests/motors/manual_gripper.py)
+- [Muye Workspace 项目索引](https://github.com/shanqiiu/muye_workspace)
+
+以下保留上游项目介绍；本仓库维护的本地实践说明见上述中文 Wiki。
+
 <p align="center">
   <img alt="LeRobot, Hugging Face Robotics Library" src="./media/readme/lerobot-logo-thumbnail.png" width="100%">
 </p>
